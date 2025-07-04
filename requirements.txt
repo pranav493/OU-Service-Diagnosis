@@ -1,3 +1,5 @@
 xgboost
 scikit-learn
 shap
+matplotlib
+altair
